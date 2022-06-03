@@ -6,3 +6,4 @@ scipy
 statsmodels
 sklearn
 xgboost
+json
